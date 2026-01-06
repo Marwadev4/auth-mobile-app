@@ -14,9 +14,19 @@ A modern, secure, and responsive Flutter application for user authentication and
 - Image upload functionality
 
 ## 📱 Screenshots
-<img width="431" height="932" alt="Placeholder (2)" src="https://github.com/user-attachments/assets/c2507725-5df9-4aee-825e-1713311e8608" />
-<img width="431" height="932" alt="Placeholder (3)" src="https://github.com/user-attachments/assets/b7ed2501-5eb8-410c-bd67-8048130edeb9" />
-<img width="431" height="932" alt="Placeholder (4)" src="https://github.com/user-attachments/assets/6de10fb9-d4ce-410c-867c-ee5b9c952ae0" />
+
+<table>
+  <tr>
+    <td><img width="300" alt="Login Screen" src="https://github.com/user-attachments/assets/c2507725-5df9-4aee-825e-1713311e8608" /></td>
+    <td><img width="300" alt="Home Screen" src="https://github.com/user-attachments/assets/b7ed2501-5eb8-410c-bd67-8048130edeb9" /></td>
+    <td><img width="300" alt="Profile Screen" src="https://github.com/user-attachments/assets/6de10fb9-d4ce-410c-867c-ee5b9c952ae0" /></td>
+  </tr>
+  <tr>
+    <td align="center">Login Screen</td>
+    <td align="center">Home Screen</td>
+    <td align="center">Profile Screen</td>
+  </tr>
+</table>
 
 
 ## 🛠 Tech Stack
